@@ -1,7 +1,7 @@
 package Model;
 
 /**
- * @author Jeaniel Osorno
+ * @author Jeaniel Stiwar Osorno Mejia
  */
 public class Cita {
     //Representación de la tabla Cita de la base de datos en Java
